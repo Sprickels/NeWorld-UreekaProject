@@ -5,7 +5,7 @@ import {Link, useParams} from 'react-router-dom'
 const ErrorPage = () => {
   return (
     <>
-    <Link to ="/Home" className="btn"> <i className="fas fa-arrow-left">Back home Page</i>
+    <Link to ="/" className="btn"> <i className="fas fa-arrow-left">Back home Page</i>
     </Link>
     <div style={{ textAlign: 'center', marginTop: '50px' }}>
       <h1>404 - Page Not Found</h1>

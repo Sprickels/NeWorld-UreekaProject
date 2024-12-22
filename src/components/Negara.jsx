@@ -55,7 +55,7 @@ const Countries = () => {
   return (
     <>
       <section className="btn-placement">
-        <Link to ="/Home" className="btn">Back To Home Page
+        <Link to ="/" className="btn">Back To Home Page
         </Link>
       </section>
       <Filter
