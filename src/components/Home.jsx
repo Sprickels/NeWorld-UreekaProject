@@ -36,6 +36,7 @@ const Home = () => {
                 
             </section>
 
+        
             <section className="content">
                 <h1>Featured Countries</h1>
                 {isLoading ? (

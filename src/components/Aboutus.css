@@ -1,0 +1,86 @@
+.container {
+    width: 80%;
+    margin: 20px auto;
+    background-color: #3E5879;
+    color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.title {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.content {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.flag {
+    flex: 1;
+    max-width: 39%; 
+}
+
+.flag img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #000;
+}
+
+.info {
+    flex: 1;
+    background-color: #47663B;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.info p {
+    margin: 5px 0;
+    font-size: 23px;
+}
+
+.reason {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.reason p {
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.reason-list {
+    margin-top: 10px;
+    text-align: left;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.reasonDesc p {
+    font-size: 18px;
+    margin-left: 17px;
+}
+
+.reason1 {
+    margin-bottom: 40px;
+}
+
+.reason2 {
+    margin-bottom: 40px;
+}
+
+.reason3 {
+    margin-bottom: 40px;
+}
+
+

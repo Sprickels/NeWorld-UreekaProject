@@ -13,7 +13,7 @@ const Header = () => {
             <div className="about-us">
                 <ul>
                     <li><Link to ="/Negara" className="btn">Country Page</Link></li>
-                    <li><Link to ="/About-us" className="btn">About Page</Link></li>
+                    <li><Link to ="/Aboutus" className="btn">About Page</Link></li>
                     <li>Dark Mode</li>
                 </ul>
             </div>
