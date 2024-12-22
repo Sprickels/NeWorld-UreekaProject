@@ -1,3 +1,8 @@
+Nama Kelompok 
+- Dimas Bramantyo Putra Santoso [2702237386]
+- John Davincent [2702249606]
+- Oswin Herman Somally [2702256870]
+
 # Apa itu NeWorld?
 NeWorld adalah sebuah website pusat informasi tentang negara-negara di seluruh dunia. Mulai dari informasi populasi, region, kota kapitalnya, uang, sampe ke lokasi melalui google map!
 
