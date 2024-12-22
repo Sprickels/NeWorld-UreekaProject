@@ -10,7 +10,7 @@ Dalam Home page kita mendapat sebuah page yang menjelaskan secara singkat apa it
 2. Country Page
 Dalam Country page kita dapat mengetahui informasi tentang secara lengkap sebuah negara, dengan negara-negaranya bertutur dengan grid dan ada sedikit snippet informasi dari negara tersebut. Lalu ada dua button didalam kotak negara tersebut, pertama untuk learn more dimana ini akan ngedirect user ke page lain yang benar-benar mengasih secara lengkap informasi tentang negaranya. Button kedua yaitu remove negara untuk menghapuskan data negaranya dari website NeWorld.
 
-Lalu ada dua fitur lagi yang berada di page ini, yaitu untuk mengsearch dan filter sesuai dengan region negara-negara tersebut. sesuai dengan namanya, ada search bar dimana dimasukkan sebuah nama negara dan akan mengfilter negara-negara lain dan menampilkan negara yang kita cari, dan lalu ada filter sesuai region negara dimana akan menampilan negara-negara yang berada di region yang dipilih.
+    Lalu ada dua fitur lagi yang berada di page ini, yaitu untuk mengsearch dan filter sesuai dengan region negara-negara tersebut. sesuai dengan namanya, ada search bar dimana dimasukkan sebuah nama negara dan akan mengfilter negara-negara lain dan menampilkan negara yang kita cari, dan lalu ada filter sesuai region negara dimana akan menampilan negara-negara yang berada di region yang dipilih.
 
 3. About Page
 Dalam About page ini adalah sebuah negara yang kelompok kami membuat, tidak hanya sebuah nama saja tetapi informasi lain-lainnya juga tercantum.
